@@ -1,0 +1,11 @@
+mother Amy
+father Ben
+mother Cara
+father Dan
+mother Eve Amy Ben
+father Frank Cara Dan
+mother Grace Eve Frank
+find Dan
+find Grace
+find Zed
+EOF

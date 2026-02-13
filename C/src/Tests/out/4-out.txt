@@ -1,0 +1,5 @@
+path from "H" to "D" is ("father" "mother" "father")
+path from "H" to "A" is ("father" "mother" "mother")
+path from "H" to "H" is ()
+path from "H" to "X" is #f
+

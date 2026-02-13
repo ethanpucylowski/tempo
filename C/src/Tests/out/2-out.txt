@@ -1,0 +1,4 @@
+path from "Grace" to "Dan" is ("mother" "father")
+path from "Grace" to "Grace" is ()
+path from "Grace" to "Zed" is #f
+

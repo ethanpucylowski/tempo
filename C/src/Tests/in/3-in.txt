@@ -1,0 +1,11 @@
+father Nina
+mother Oscar
+father Paul
+mother Quinn
+father Rex Nina Oscar
+mother Sue Paul Quinn
+father Tina Rex Sue
+find Nina
+find Quinn
+find Tina
+EOF

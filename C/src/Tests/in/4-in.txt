@@ -1,0 +1,13 @@
+mother A
+father B
+mother C
+father D
+mother E A B
+father F C D
+mother G E F
+father H G
+find D
+find A
+find H
+find X
+EOF

@@ -1,0 +1,4 @@
+path from "Tina" to "Nina" is ("father" "father")
+path from "Tina" to "Quinn" is ("father" "mother")
+path from "Tina" to "Tina" is ()
+
