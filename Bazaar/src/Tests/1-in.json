@@ -1,0 +1,10 @@
+{
+  "test": "canAcquire",
+  "card": {
+    "pebbles": ["RED", "RED", "BLUE", "GREEN", "YELLOW"],
+    "hasStar": false
+  },
+  "playerPebbles": {
+    "RED": 2, "BLUE": 1, "GREEN": 1, "YELLOW": 1
+  }
+}
