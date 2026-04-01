@@ -1,0 +1,10 @@
+{
+  "test": "toString_standard",
+  "name": "TestPlayer",
+  "wallet": {
+    "RED": 2,
+    "BLUE": 1
+  },
+  "score": 7,
+  "active": true
+}

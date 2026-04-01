@@ -1,0 +1,10 @@
+{
+  "test": "mutator_setActiveToTrue",
+  "name": "TestPlayer",
+  "wallet": {
+    "RED": 1
+  },
+  "score": 10,
+  "active": false,
+  "newActive": true
+}

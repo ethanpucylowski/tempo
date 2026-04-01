@@ -1,0 +1,7 @@
+{
+  "test": "constructor_nullWallet",
+  "name": "TestPlayer",
+  "wallet": null,
+  "score": 5,
+  "active": true
+}

@@ -1,0 +1,9 @@
+{
+  "test": "constructor_emptyName",
+  "name": "",
+  "wallet": {
+    "RED": 1
+  },
+  "score": 5,
+  "active": true
+}

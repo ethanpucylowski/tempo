@@ -1,0 +1,8 @@
+{
+  "success": true,
+  "contains": [
+    "EliminatedPlayer",
+    "score=12",
+    "active=false"
+  ]
+}

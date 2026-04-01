@@ -1,0 +1,9 @@
+{
+  "test": "constructor_inactivePlayer",
+  "name": "EliminatedPlayer",
+  "wallet": {
+    "RED": 5
+  },
+  "score": 15,
+  "active": false
+}

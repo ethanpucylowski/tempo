@@ -1,0 +1,9 @@
+{
+  "test": "accessor_getScore",
+  "name": "TestPlayer",
+  "wallet": {
+    "RED": 1
+  },
+  "score": 25,
+  "active": true
+}

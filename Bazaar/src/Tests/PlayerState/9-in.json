@@ -1,0 +1,11 @@
+{
+  "test": "accessor_getWallet",
+  "name": "TestPlayer",
+  "wallet": {
+    "RED": 3,
+    "WHITE": 2,
+    "BLUE": 1
+  },
+  "score": 5,
+  "active": true
+}

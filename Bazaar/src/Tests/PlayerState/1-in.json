@@ -1,0 +1,11 @@
+{
+  "test": "constructor_valid",
+  "name": "TestPlayer",
+  "wallet": {
+    "RED": 2,
+    "BLUE": 1,
+    "GREEN": 3
+  },
+  "score": 7,
+  "active": true
+}

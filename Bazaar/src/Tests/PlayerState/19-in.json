@@ -1,0 +1,7 @@
+{
+  "test": "toString_emptyWallet",
+  "name": "BrokePlayer",
+  "wallet": {},
+  "score": 0,
+  "active": true
+}

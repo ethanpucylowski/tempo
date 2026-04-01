@@ -1,0 +1,9 @@
+{
+  "test": "accessor_isActive_false",
+  "name": "InactivePlayer",
+  "wallet": {
+    "RED": 1
+  },
+  "score": 5,
+  "active": false
+}

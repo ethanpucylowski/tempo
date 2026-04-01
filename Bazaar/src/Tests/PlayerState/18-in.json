@@ -1,0 +1,9 @@
+{
+  "test": "toString_inactive",
+  "name": "EliminatedPlayer",
+  "wallet": {
+    "RED": 5
+  },
+  "score": 12,
+  "active": false
+}

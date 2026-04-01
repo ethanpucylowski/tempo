@@ -1,0 +1,5 @@
+{
+  "success": true,
+  "walletUnchanged": true,
+  "note": "Modifying original wallet map should not affect PlayerState's internal wallet"
+}

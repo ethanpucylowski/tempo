@@ -1,0 +1,8 @@
+{
+  "success": true,
+  "expectedWallet": {
+    "RED": 3,
+    "WHITE": 2,
+    "BLUE": 1
+  }
+}

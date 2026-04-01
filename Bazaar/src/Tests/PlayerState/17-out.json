@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "contains": [
+    "TestPlayer",
+    "score=7",
+    "active=true",
+    "wallet="
+  ]
+}

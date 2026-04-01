@@ -1,0 +1,14 @@
+{
+  "test": "immutability_originalWalletModification",
+  "name": "TestPlayer",
+  "wallet": {
+    "RED": 2,
+    "BLUE": 1
+  },
+  "score": 5,
+  "active": true,
+  "modifyOriginal": {
+    "color": "YELLOW",
+    "count": 100
+  }
+}
