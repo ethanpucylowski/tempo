@@ -1,0 +1,5 @@
+{
+  "success": true,
+  "otherScoresMatch": true,
+  "expectedOtherScores": [4, 6, 8]
+}

@@ -1,0 +1,16 @@
+{
+  "test": "render_noVisibleCards",
+  "bank": {
+    "BLUE": 3
+  },
+  "activePlayer": {
+    "name": "Player1",
+    "wallet": {
+      "GREEN": 2
+    },
+    "score": 5,
+    "active": true
+  },
+  "otherScores": [3],
+  "visibleCards": []
+}

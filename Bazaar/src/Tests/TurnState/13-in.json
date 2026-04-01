@@ -1,0 +1,16 @@
+{
+  "test": "immutability_otherScoresModification",
+  "bank": {
+    "RED": 3
+  },
+  "activePlayer": {
+    "name": "Player1",
+    "wallet": {
+      "RED": 1
+    },
+    "score": 5,
+    "active": true
+  },
+  "otherScores": [3, 5],
+  "visibleCards": []
+}

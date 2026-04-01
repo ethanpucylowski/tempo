@@ -1,0 +1,16 @@
+{
+  "test": "accessor_getOtherScores",
+  "bank": {
+    "RED": 3
+  },
+  "activePlayer": {
+    "name": "TestPlayer",
+    "wallet": {
+      "RED": 1
+    },
+    "score": 10,
+    "active": true
+  },
+  "otherScores": [4, 6, 8],
+  "visibleCards": []
+}

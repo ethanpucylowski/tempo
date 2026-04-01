@@ -1,0 +1,16 @@
+{
+  "test": "render_displaysScore",
+  "bank": {
+    "RED": 5
+  },
+  "activePlayer": {
+    "name": "TestPlayer",
+    "wallet": {
+      "RED": 1
+    },
+    "score": 15,
+    "active": true
+  },
+  "otherScores": [],
+  "visibleCards": []
+}

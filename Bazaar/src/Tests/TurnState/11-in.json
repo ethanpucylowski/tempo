@@ -1,0 +1,25 @@
+{
+  "test": "accessor_getVisibleCards",
+  "bank": {
+    "RED": 5
+  },
+  "activePlayer": {
+    "name": "TestPlayer",
+    "wallet": {
+      "BLUE": 1
+    },
+    "score": 5,
+    "active": true
+  },
+  "otherScores": [3],
+  "visibleCards": [
+    {
+      "pebbles": ["RED", "WHITE", "BLUE", "GREEN", "YELLOW"],
+      "hasStar": false
+    },
+    {
+      "pebbles": ["RED", "RED", "WHITE", "BLUE", "GREEN"],
+      "hasStar": true
+    }
+  ]
+}

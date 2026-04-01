@@ -1,0 +1,16 @@
+{
+  "test": "constructor_emptyOtherScores",
+  "bank": {
+    "RED": 3
+  },
+  "activePlayer": {
+    "name": "SoloPlayer",
+    "wallet": {
+      "GREEN": 3
+    },
+    "score": 12,
+    "active": true
+  },
+  "otherScores": [],
+  "visibleCards": []
+}

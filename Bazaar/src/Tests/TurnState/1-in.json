@@ -1,0 +1,24 @@
+{
+  "test": "constructor_valid",
+  "bank": {
+    "RED": 3,
+    "WHITE": 5,
+    "BLUE": 2
+  },
+  "activePlayer": {
+    "name": "TestPlayer",
+    "wallet": {
+      "RED": 2,
+      "BLUE": 1
+    },
+    "score": 7,
+    "active": true
+  },
+  "otherScores": [4, 6],
+  "visibleCards": [
+    {
+      "pebbles": ["RED", "WHITE", "BLUE", "GREEN", "YELLOW"],
+      "hasStar": false
+    }
+  ]
+}

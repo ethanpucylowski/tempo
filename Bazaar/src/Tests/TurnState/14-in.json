@@ -1,0 +1,21 @@
+{
+  "test": "immutability_visibleCardsModification",
+  "bank": {
+    "RED": 3
+  },
+  "activePlayer": {
+    "name": "Player1",
+    "wallet": {
+      "RED": 1
+    },
+    "score": 5,
+    "active": true
+  },
+  "otherScores": [3],
+  "visibleCards": [
+    {
+      "pebbles": ["RED", "WHITE", "BLUE", "GREEN", "YELLOW"],
+      "hasStar": false
+    }
+  ]
+}

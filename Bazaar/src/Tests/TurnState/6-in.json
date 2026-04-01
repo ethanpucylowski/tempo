@@ -1,0 +1,9 @@
+{
+  "test": "constructor_nullActivePlayer",
+  "bank": {
+    "RED": 5
+  },
+  "activePlayer": null,
+  "otherScores": [3],
+  "visibleCards": []
+}

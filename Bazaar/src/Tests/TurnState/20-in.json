@@ -1,0 +1,14 @@
+{
+  "test": "render_emptyBank",
+  "bank": {},
+  "activePlayer": {
+    "name": "TestPlayer",
+    "wallet": {
+      "RED": 1
+    },
+    "score": 3,
+    "active": true
+  },
+  "otherScores": [],
+  "visibleCards": []
+}

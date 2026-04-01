@@ -1,0 +1,16 @@
+{
+  "test": "constructor_emptyVisibleCards",
+  "bank": {
+    "YELLOW": 10
+  },
+  "activePlayer": {
+    "name": "Player1",
+    "wallet": {
+      "BLUE": 2
+    },
+    "score": 3,
+    "active": true
+  },
+  "otherScores": [5, 7],
+  "visibleCards": []
+}

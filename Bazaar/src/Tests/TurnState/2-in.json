@@ -1,0 +1,14 @@
+{
+  "test": "constructor_emptyBank",
+  "bank": {},
+  "activePlayer": {
+    "name": "TestPlayer",
+    "wallet": {
+      "RED": 2
+    },
+    "score": 5,
+    "active": true
+  },
+  "otherScores": [3],
+  "visibleCards": []
+}

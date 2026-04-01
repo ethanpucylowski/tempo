@@ -1,0 +1,5 @@
+{
+  "success": false,
+  "error": "IllegalArgumentException",
+  "message": "Other scores must not be null."
+}

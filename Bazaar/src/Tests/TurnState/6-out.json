@@ -1,0 +1,5 @@
+{
+  "success": false,
+  "error": "IllegalArgumentException",
+  "message": "Active player must not be null."
+}

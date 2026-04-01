@@ -1,0 +1,5 @@
+{
+  "success": true,
+  "throwsUnsupportedOperation": true,
+  "note": "Calling getBank().put() should throw UnsupportedOperationException"
+}

@@ -1,0 +1,5 @@
+{
+  "success": true,
+  "throwsUnsupportedOperation": true,
+  "note": "Calling getVisibleCards().add() should throw UnsupportedOperationException"
+}

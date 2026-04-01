@@ -1,0 +1,5 @@
+{
+  "success": false,
+  "error": "IllegalArgumentException",
+  "message": "Bank must not be null."
+}

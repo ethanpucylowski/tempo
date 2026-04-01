@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "bankMatches": true,
+  "expectedBank": {
+    "RED": 3,
+    "WHITE": 5,
+    "BLUE": 2
+  }
+}

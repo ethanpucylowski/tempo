@@ -1,0 +1,16 @@
+{
+  "test": "render_containsHeader",
+  "bank": {
+    "RED": 3
+  },
+  "activePlayer": {
+    "name": "TestPlayer",
+    "wallet": {
+      "RED": 2
+    },
+    "score": 7,
+    "active": true
+  },
+  "otherScores": [4],
+  "visibleCards": []
+}

@@ -1,0 +1,16 @@
+{
+  "test": "toString_delegatesToRender",
+  "bank": {
+    "RED": 3
+  },
+  "activePlayer": {
+    "name": "Player1",
+    "wallet": {
+      "BLUE": 2
+    },
+    "score": 7,
+    "active": true
+  },
+  "otherScores": [5],
+  "visibleCards": []
+}
