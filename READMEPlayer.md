@@ -91,6 +91,4 @@ resulting in a modular and deterministic player implementation.
 
 ## UML Sequence Diagram
 
-## UML Sequence Diagram
-
-![Player Strategy UML](../misc/uml_player.png)
+![Player Strategy UML](misc/uml_player.png)
