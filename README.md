@@ -1,9 +1,3 @@
-
-Conversations
-9% of 2,048 GB used
-Terms · Privacy · Programme Policies
-Last account activity: 14 minutes ago
-Details
 # Bazaar — Milestone 4 - Ethan Pucylowski and Caleb Pucylowski
 
 This milestone introduces a player protocol (`Planning/player-protocol.md`)
