@@ -1,0 +1,15 @@
+{
+  "maximizePoints": true,
+  "turnState": {
+    "active": {
+      "name": "p",
+      "wallet": { "RED": 3, "BLUE": 2 }
+    },
+    "bank": { "RED": 10, "BLUE": 10 },
+    "cards": [
+      { "pebbles": ["RED", "RED", "BLUE", "BLUE"], "face?": true },
+      { "pebbles": ["RED"], "face?": false }
+    ]
+  },
+  "equations": []
+}

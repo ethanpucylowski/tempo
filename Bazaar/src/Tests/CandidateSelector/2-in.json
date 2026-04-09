@@ -1,0 +1,22 @@
+{
+  "maximizePoints": false,
+  "candidates": [
+    {
+      "points": 2,
+      "wallet": { "RED": 2, "BLUE": 2 },
+      "cards": [
+        { "pebbles": ["RED"], "face?": false }
+      ],
+      "exchanges": []
+    },
+    {
+      "points": 2,
+      "wallet": { "RED": 1, "BLUE": 1 },
+      "cards": [
+        { "pebbles": ["RED"], "face?": false },
+        { "pebbles": ["BLUE"], "face?": false }
+      ],
+      "exchanges": []
+    }
+  ]
+}

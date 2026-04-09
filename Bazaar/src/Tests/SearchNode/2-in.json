@@ -1,0 +1,14 @@
+{
+  "test": "canPurchase",
+  "wallet": { "RED": 3, "BLUE": 1 },
+  "visibleCards": [
+    {
+      "pebbles": ["RED", "RED"],
+      "face?": false
+    }
+  ],
+  "card": {
+    "pebbles": ["RED", "RED"],
+    "face?": false
+  }
+}

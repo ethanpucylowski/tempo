@@ -1,0 +1,10 @@
+{
+  "test": "createInitial",
+  "wallet": { "RED": 3, "BLUE": 1 },
+  "visibleCards": [
+    {
+      "pebbles": ["RED", "RED"],
+      "face?": false
+    }
+  ]
+}

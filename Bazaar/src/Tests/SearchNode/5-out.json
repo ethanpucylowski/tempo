@@ -1,0 +1,5 @@
+{
+  "wallet": { "RED": 2, "BLUE": 2 },
+  "depth": 1,
+  "exchangeSequenceLength": 1
+}

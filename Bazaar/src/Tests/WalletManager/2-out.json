@@ -1,0 +1,6 @@
+{
+  "points": 2,
+  "wallet": {"RED": 1, "BLUE": 1},
+  "cards": [["RED"], ["BLUE"]],
+  "exchanges": []
+}

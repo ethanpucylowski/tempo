@@ -1,0 +1,22 @@
+{
+  "maximizePoints": true,
+  "candidates": [
+    {
+      "points": 3,
+      "wallet": {"RED": 1},
+      "cards": [["RED"]],
+      "exchanges": [
+        {
+          "equation": [["RED"], ["BLUE"]],
+          "leftToRight": true
+        }
+      ]
+    },
+    {
+      "points": 3,
+      "wallet": {"RED": 1},
+      "cards": [["RED"]],
+      "exchanges": []
+    }
+  ]
+}

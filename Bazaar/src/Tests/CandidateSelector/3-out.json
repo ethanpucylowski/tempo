@@ -1,0 +1,8 @@
+{
+  "points": 4,
+  "wallet": { "RED": 3 },
+  "cards": [
+    { "pebbles": ["RED"], "face?": false }
+  ],
+  "exchanges": []
+}

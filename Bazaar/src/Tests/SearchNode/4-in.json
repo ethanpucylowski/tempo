@@ -1,0 +1,16 @@
+{
+  "test": "canApplyExchange",
+  "wallet": { "RED": 3, "BLUE": 1 },
+  "visibleCards": [
+    {
+      "pebbles": ["RED", "RED"],
+      "face?": false
+    }
+  ],
+  "bank": { "BLUE": 5, "RED": 5 },
+  "equation": {
+    "left": ["RED"],
+    "right": ["BLUE"]
+  },
+  "leftToRight": true
+}

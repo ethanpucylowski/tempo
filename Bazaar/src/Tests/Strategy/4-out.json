@@ -1,0 +1,31 @@
+{
+  "exchanges": [
+    {
+      "equation": {
+        "left": ["RED"],
+        "right": ["GREEN"]
+      },
+      "leftToRight": true
+    },
+    {
+      "equation": {
+        "left": ["RED"],
+        "right": ["GREEN"]
+      },
+      "leftToRight": true
+    },
+    {
+      "equation": {
+        "left": ["RED"],
+        "right": ["GREEN"]
+      },
+      "leftToRight": true
+    }
+  ],
+  "cards": [
+    { "pebbles": ["GREEN", "GREEN", "GREEN"], "face?": false },
+    { "pebbles": ["RED"], "face?": false }
+  ],
+  "wallet": {},
+  "points": 4
+}
