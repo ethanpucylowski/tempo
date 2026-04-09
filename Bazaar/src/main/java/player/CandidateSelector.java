@@ -10,6 +10,7 @@ import java.util.stream.Collectors;
 import common.Cards;
 import common.Cards.PebbleColor;
 import common.Equation;
+import common.WalletManager;
 
 /**
  * Selects the best turn from a set of candidate turns based on the strategy's goals

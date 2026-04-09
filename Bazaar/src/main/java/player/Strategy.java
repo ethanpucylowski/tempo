@@ -16,6 +16,7 @@ import common.Cards.PebbleColor;
 import common.Equation;
 import common.Equations;
 import common.TurnState;
+import common.WalletManager;
 
 /**
  * Implements the Bazaar player strategy for making turn decisions.

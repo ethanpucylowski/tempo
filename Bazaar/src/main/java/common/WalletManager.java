@@ -1,4 +1,4 @@
-package player;
+package common;
 
 import java.util.EnumMap;
 import java.util.List;

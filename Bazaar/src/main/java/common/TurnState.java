@@ -1,7 +1,7 @@
 package common;
 
 import common.Cards.PebbleColor;
-import referee.PlayerState;
+import common.PlayerState;
 
 import java.util.Collections;
 import java.util.EnumMap;
@@ -10,7 +10,7 @@ import java.util.Map;
 
 /**
  * Represents the information the referee sends to the player at the
- * start of their turn. This is a snapshot i.e. players cannot see thecfull game state
+ * start of their turn. This is a snapshot i.e. players cannot see the full game state
  *
  * Data representation:
  *   - bank:         current pebble counts in the bank
@@ -66,9 +66,9 @@ public class TurnState {
         StringBuilder sb = new StringBuilder();
         sb.append("=== Turn State ===\n");
 
-        sb.append("Your wallet: ").append(renderPebbleMap(activePlayer.getWallet())).append("\n");
+        sb.append("Your wallet: ").append(WalletManager.toString(activePlayer.getWallet())).append("\n");
         sb.append("Your score:  ").append(activePlayer.getScore()).append("\n");
-        sb.append("Bank:        ").append(renderPebbleMap(bank)).append("\n");
+        sb.append("Bank:        ").append(WalletManager.toString(bank)).append("\n");
         sb.append("Other scores: ").append(otherScores).append("\n");
 
         sb.append("Visible Cards:\n");
@@ -88,20 +88,6 @@ public class TurnState {
     public PlayerState getActivePlayer()          { return activePlayer; }
     public List<Integer> getOtherScores()         { return otherScores; }
     public List<Cards> getVisibleCards()          { return visibleCards; }
-
-    // Private helpers
-    private static String renderPebbleMap(Map<PebbleColor, Integer> map) {
-        if (map.isEmpty()) return "(empty)";
-        StringBuilder sb = new StringBuilder();
-        for (PebbleColor c : PebbleColor.values()) {
-            int count = map.getOrDefault(c, 0);
-            if (count > 0) {
-                if (sb.length() > 0) sb.append(" ");
-                sb.append(c.name()).append("=").append(count);
-            }
-        }
-        return sb.length() == 0 ? "(empty)" : sb.toString();
-    }
 
     @Override
     public String toString() {

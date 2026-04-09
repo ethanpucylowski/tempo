@@ -13,6 +13,7 @@ import java.util.Set;
 import common.Cards;
 import common.Cards.PebbleColor;
 import common.Equation;
+import common.WalletManager;
 
 /**
  * Represents a state in the turn search space.
